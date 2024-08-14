@@ -38,16 +38,16 @@ module.exports.run = async function({ api, event }) {
 
 ☄️Bot Name︎︎︎☄️  𒁍≛⃝●☆●🥀ɢ❍ɭ ɢʌ𝐩𝐩🅘💔🪽
 
-🔥Bot Admin🔥🤩S𝐈𝐋𝐄𝐍𝐓 𝐏𝐑𝐈𝐍𝐂𝐄☜︎︎︎✰💔🥀
+🔥Bot Admin🔥🤩ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊☜︎︎︎✰💔🥀
 
 🙈bot andmin owner facebook id link🥀ɢ❍🙈👇🏻
- https://www.facebook.com/profile.php?id=61551474205816😇
+ https://www.facebook.com/profile.php?id=100085068887359😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ .
 
-♥️Bot Owner♥️ ☞︎︎︎S𝐈𝐋𝐄𝐍𝐓 𝐏𝐑𝐈𝐍𝐂𝐄☜︎︎︎✰ 
+♥️Bot Owner♥️ ☞︎︎︎ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊☜︎︎︎✰ 
 
 
 
