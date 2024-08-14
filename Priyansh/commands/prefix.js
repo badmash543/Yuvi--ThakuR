@@ -25,10 +25,10 @@ module.exports.handleEvent = async ({ event, api, Threads }) => {
     if (body === i.toUpperCase() | body === i | str === body) {
 const prefix = threadSetting.PREFIX || global.config.PREFIX;
       if (data.PREFIX == null) {
-        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐀𝐃𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/bijayani.sahoo.98?mibextid=ZbWKwL\n
-👋For Any Kind Of Help Contact On Telegram  Username 👉 https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==`)
+        return out(`This Is My Prefix ⇉ [ ${prefix} ]\n💝🥀*★᭄𝗢𝘄𝗻𝗲𝗿🍀🍒💐:- ☞ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐁𝐇𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/profile.php?id=100085068887359\n
+👋For Any Kind Of Help Contact On Telegram  Username 👉 Abhishek_singh88877,`)
       }
-      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n💝🥀𝐎𝐖𝐍𝐄𝐑:- ☞𝐁𝐑𝐎𝐊𝐄𝐍 𝐀𝐀𝐃𝐈☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐀𝐃𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/bijayani.sahoo.98?mibextid=ZbWKwL\n👋For Any Kind Of Help Contact On Instagram  Username 👉 https://www.instagram.com/aadi_singh__143?igsh=MXVneXZ6bzR4bHhvcg==' + data.PREFIX)
+      else return out('️️️️️️️️️️️️️️️️️️️️️️️️️️️This Is My Prefix ⇉ [ ${prefix} ]  \n💝🥀🌿*★᭄𝗢𝘄𝗻𝗲𝗿 🍀🍒💐:- ☞ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊☜ 💫\n🖤𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 𝐀𝐁𝐇𝐈 🖤\n😳𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝🤓:- ☞ https://www.facebook.com/profile.php?id=100085068887359\n👋For Any Kind Of Help Contact On Instagram  Username 👉 https://www.instagram.com/Abhishek_singh88877' + data.PREFIX)
     }
 
   });
