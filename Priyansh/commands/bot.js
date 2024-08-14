@@ -57,7 +57,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
    };
 
    if ((event.body.toLowerCase() == "owner") || (event.body.toLowerCase() == "Owner")) {
-     return api.sendMessage("My Owner AestHetic bOy  SILENT PRINCE\nhttps://www.facebook.com/SILENT PRINCE.HERE🖤", threadID);
+     return api.sendMessage("My Owner  hot lover abhishek singh\nhttps://www.facebook.com/profile.php?id=100085068887359SILENT ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊🖤", threadID);
    };
 if ((event.body.toLowerCase() == "sim") || (event.body.toLowerCase() == "simi")) {
      return api.sendMessage("Sim Sim Na KRr IjjaT Sy MeRa Prefix LaGa 0or Bt kRr ITna Free Nhi kRta Me 😎🤞", threadID);
