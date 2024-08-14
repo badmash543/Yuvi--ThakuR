@@ -127,7 +127,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 ✮☸✮
 ☸🌈━━•🤍•━━🌈☸
 ✮☸✮
-✮┼❄️┼✮`, attachment: fs.createReadStream(__dirname + "/cache/Abhishek.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
-      return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/kensu.jpg")).on("close", () => callback()); 
+✮┼❄️┼✮`, attachment: fs.createReadStream(__dirname + "/cache/Abhi.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/abhi.jpg"));
+      return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/abhi.jpg")).on("close", () => callback()); 
   }
 };
