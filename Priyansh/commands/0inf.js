@@ -97,13 +97,13 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 🔥Bot Admin🔥🤩S𝐈𝐋𝐄𝐍𝐓 𝐏𝐑𝐈𝐍𝐂𝐄☜︎︎︎✰💔🥀
 
 🙈bot andmin owner facebook id link🥀ɢ❍🙈👇🏻
- https://www.facebook.com/profile.php?id=61551474205816😇
+ https://www.facebook.com/profile.php?id=100085068887359😇
 
 ✧══════•❁❀❁•══════✧
 
 🌸Bot Prefix🌸☞︎︎︎☜︎︎︎✰ .
 
-♥️Bot Owner♥️ ☞︎︎︎S𝐈𝐋𝐄𝐍𝐓 𝐏𝐑𝐈𝐍𝐂𝐄☜︎︎︎✰ 
+♥️Bot Owner♥️ ☞︎︎︎ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊☜︎︎︎✰ 
 
 
 
@@ -114,7 +114,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 
 🦢🍒•••ꞪɛᏒɛ ɪʂ ɮ❍┼ ❍ωɳɜɽ ɳaʍɜ•••🌷💞
 ┏━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┓
-🌸✦✧✧✧✧✰🍒✬✿╭┳✪✪╤───────────➛➣ ★�🆁🅸🅽🅲🅴★🆂🅸🅻🅴🅽🆃)✪��🆈★  ✬✿╭┳✪✪╤───────────➛➣🤩🌿✰✧✧✧✧✦🌸
+🌸✦✧✧✧✧✰🍒✬✿╭┳✪✪╤───────────➛➣ ★�*★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐑.𝐀𝐁𝐇𝐈𝐒𝐇𝐄𝐊 𝐒𝐈𝐍𝐆𝐇🍀🍒💐)✪��🆈★  ✬✿╭┳✪✪╤───────────➛➣🤩🌿✰✧✧✧✧✦🌸
 ┗━🕊️━━°❀•°:🎀🧸💙🧸🎀:°•❀°━━💞━┛    
 🕊️🌸
 ...
@@ -127,7 +127,7 @@ module.exports.run = async function ({ api, event, args, Users, permssion, getTe
 ✮☸✮
 ☸🌈━━•🤍•━━🌈☸
 ✮☸✮
-✮┼❄️┼✮`, attachment: fs.createReadStream(__dirname + "/cache/kensu.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
+✮┼❄️┼✮`, attachment: fs.createReadStream(__dirname + "/cache/Abhishek.jpg"), }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/kensu.jpg"));
       return request(encodeURI(link[Math.floor(Math.random() * link.length)])).pipe(fs.createWriteStream(__dirname + "/cache/kensu.jpg")).on("close", () => callback()); 
   }
 };
