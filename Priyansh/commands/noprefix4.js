@@ -12,7 +12,7 @@ module.exports.config = {
 
 module.exports.handleEvent = function({ api, event, client, __GLOBAL }) {
 	var { threadID, messageID } = event;
-	if (event.body.indexOf("India")==0 || event.body.indexOf("Hind")==0 || event.body.indexOf("Bharat")==0 || event.body.indexOf("desh")==0) {
+	if (event.body.indexOf("india")==0 || event.body.indexOf("hind")==0 || event.body.indexOf("Bharat")==0 || event.body.indexOf("desh")==0) {
 		var msg = {
 				body: "Mera Desh Bharat🇮🇳 Jai hind 🇮🇳🇮🇳 jai bhaarat❤❤❤🇮🇳",
 				attachment: fs.createReadStream(__dirname + `/noprefix/india.mp4`)
