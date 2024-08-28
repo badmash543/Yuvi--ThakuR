@@ -555,7 +555,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("He is Aaryan Sharabi. He Gives his name Mr Aaryan everywhare", threadID);
    };
 
-   if ((event.body.toLowerCase() == "@pihu rajput") || (event.body.toLowerCase() == "@Ishika Ranaa")) {
+   if ((event.body.toLowerCase() == "@ŃãDãń KúDï MâHï") || (event.body.toLowerCase() == "@ŃãDãń KúDï MâHï")) {
      return api.sendMessage("ye toh hasina h. meri jaan h. meri dil ki dhadkan h🤩.", threadID);
    };
 
@@ -663,8 +663,8 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
      return api.sendMessage("Yes <3", threadID);
    };
 
-   if ((event.body.toLowerCase() == "boat") || (event.body.toLowerCase() == "Boat")) {
-     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 𝐑𝐚𝐧𝐢 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
+   if ((event.body.toLowerCase() == "bot") || (event.body.toLowerCase() == "Boat")) {
+     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 Raja 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
    };
    mess = "{name}"
 
