@@ -664,7 +664,7 @@ if ((event.body.toLowerCase() == "😀") || (event.body.toLowerCase() == "😀�
    };
 
    if ((event.body.toLowerCase() == "bot") || (event.body.toLowerCase() == "Boat")) {
-     return api.sendMessage("𝐁𝐨𝐭 𝐧𝐚𝐡𝐢 Raja 𝐛𝐨𝐥𝐨 𝐏𝐚𝐠𝐚𝐥", threadID);
+     return api.sendMessage("𝐁𝐨𝐭", threadID);
    };
    mess = "{name}"
 
